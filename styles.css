@@ -1,0 +1,19 @@
+.bo1 {
+    /* background-color: red; */
+    border: 1px solid red;
+}
+
+.bo2 {
+    /* background-color: red; */
+    border: 1px solid blue;
+}
+
+.bo3 {
+    /* background-color: red; */
+    border: 1px solid greenyellow;
+}
+
+.bg {
+    max-width: 100%;
+    max-height: auto;
+}
